@@ -3,7 +3,7 @@
 
 Window::Window(QWidget *parent) : QWidget(parent)
 {
-	// nastavenie ve+lkosti okna
+	// nastavenie velkosti okna
 	 setFixedSize(100, 50);
 
 	// vytvorenie QLablu

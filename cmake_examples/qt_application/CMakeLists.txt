@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.12 FATAL_ERROR)
 
-project(cmake_qt_demo
+project(qt_application
 	DESCRIPTION "hello_world_qt"
     LANGUAGES CXX)
 

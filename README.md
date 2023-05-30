@@ -10,3 +10,8 @@ Repozitár obsahuje materiály a ukážkové programy dostupné k predmetu Softv
         ├── console_application
         └── qt_application
     └── README.md
+    
+
+
+
+###### TODO: pridať priklady s vtk kniznicami a latex example
