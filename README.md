@@ -9,9 +9,12 @@ Repozitár obsahuje materiály a ukážkové programy dostupné k predmetu Softv
     └── cmake_examples        # obsahuje vzorové aplikácie požívajúce cmake ako build systém
         ├── console_application
         └── qt_application
+    └── vtk_examples          # obsahuje vzorové aplikácie požívajúce qt a vtk knižnice
+        ├── lightning_model_app
+        └── simple_display_vtk_app
     └── README.md
     
 
 
 
-###### TODO: pridať priklady s vtk kniznicami a latex example
+###### TODO: pridať latex example
