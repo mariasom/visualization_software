@@ -12,6 +12,9 @@ Repozitár obsahuje materiály a ukážkové programy dostupné k predmetu Softv
     └── vtk_examples          # obsahuje vzorové aplikácie požívajúce qt a vtk knižnice
         ├── lightning_model_app
         └── simple_display_vtk_app
+    └── latex                 # obsahuje vzorové latex dokumenty
+        ├── dokument
+        └── prezentacia
     └── README.md
     
 
